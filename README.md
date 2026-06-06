@@ -93,3 +93,10 @@ Complete RAG learning repository covering document loaders, text splitters, embe
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivaSubramanyam02&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShivaSubramanyam02/ShivaSubramanyam02/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
