@@ -3,16 +3,11 @@
 <h3 align="center">Python Developer | Backend APIs | GenAI & RAG Systems</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e39-1a87-4a5d-9d4f-069c6e1d0b3f.gif" width="500" alt="Futuristic coding animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=750&lines=Python+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;GenAI+%7C+RAG+%7C+LangChain;Building+Backend+%2B+AI+Systems" alt="Typing SVG" />
 </p>
 
----
-
-
----
-
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-fd62-4fa9-833e-11b9a02dd6ec.gif" width="500" alt="coding animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/216655859-f66df97b-fd62-4fa9-833e-11b9a02dd6ec.gif" width="500" alt="Futuristic coding animation"/>
 </p>
 
 ---
@@ -35,6 +30,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/RAG-GenAI-blueviolet?style=for-the-badge"/>
@@ -96,6 +92,7 @@ Complete RAG learning repository covering document loaders, text splitters, embe
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShivaSubramanyam02&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+
 ---
 
 ## 🐍 Contribution Snake
