@@ -3,8 +3,11 @@
 <h3 align="center">Python Developer | Backend APIs | GenAI & RAG Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Python+Developer;FastAPI+%7C+PostgreSQL+%7C+Docker;GenAI+%7C+RAG+%7C+LangChain;Building+Backend+%2B+AI+Systems" alt="Typing SVG" />
+  <img src="https://user-images.githubusercontent.com/74038190/216656977-ef584e39-1a87-4a5d-9d4f-069c6e1d0b3f.gif" width="500" alt="Futuristic coding animation"/>
 </p>
+
+---
+
 
 ---
 
